@@ -1,0 +1,7 @@
+C:\Users\Luba\Source\Repos\janzen01\matura\obj\Debug\prvniaplikace.csprojAssemblyReference.cache
+C:\Users\Luba\Source\Repos\janzen01\matura\obj\Debug\prvniaplikace.csproj.CoreCompileInputs.cache
+C:\Users\Luba\Source\Repos\janzen01\matura\bin\Debug\prvniaplikace.exe.config
+C:\Users\Luba\Source\Repos\janzen01\matura\bin\Debug\prvniaplikace.exe
+C:\Users\Luba\Source\Repos\janzen01\matura\bin\Debug\prvniaplikace.pdb
+C:\Users\Luba\Source\Repos\janzen01\matura\obj\Debug\prvniaplikace.exe
+C:\Users\Luba\Source\Repos\janzen01\matura\obj\Debug\prvniaplikace.pdb
