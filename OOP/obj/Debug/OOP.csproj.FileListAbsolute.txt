@@ -1,0 +1,7 @@
+C:\Users\Luba\source\repos\janzen01\matura\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\Luba\source\repos\janzen01\matura\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Luba\source\repos\janzen01\matura\OOP\bin\Debug\OOP.exe.config
+C:\Users\Luba\source\repos\janzen01\matura\OOP\bin\Debug\OOP.exe
+C:\Users\Luba\source\repos\janzen01\matura\OOP\bin\Debug\OOP.pdb
+C:\Users\Luba\source\repos\janzen01\matura\OOP\obj\Debug\OOP.exe
+C:\Users\Luba\source\repos\janzen01\matura\OOP\obj\Debug\OOP.pdb
