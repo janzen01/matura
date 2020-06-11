@@ -1,0 +1,7 @@
+C:\Users\Luba\source\repos\janzen01\matura\Calculatorv2\obj\Debug\Calculatorv2.csprojAssemblyReference.cache
+C:\Users\Luba\source\repos\janzen01\matura\Calculatorv2\obj\Debug\Calculatorv2.csproj.CoreCompileInputs.cache
+C:\Users\Luba\source\repos\janzen01\matura\Calculatorv2\bin\Debug\Calculatorv2.exe.config
+C:\Users\Luba\source\repos\janzen01\matura\Calculatorv2\bin\Debug\Calculatorv2.exe
+C:\Users\Luba\source\repos\janzen01\matura\Calculatorv2\bin\Debug\Calculatorv2.pdb
+C:\Users\Luba\source\repos\janzen01\matura\Calculatorv2\obj\Debug\Calculatorv2.exe
+C:\Users\Luba\source\repos\janzen01\matura\Calculatorv2\obj\Debug\Calculatorv2.pdb
