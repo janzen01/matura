@@ -1,0 +1,10 @@
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\obj\Debug\ScrollBar.csprojAssemblyReference.cache
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\obj\Debug\ScrollBar.Form1.resources
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\obj\Debug\ScrollBar.Properties.Resources.resources
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\obj\Debug\ScrollBar.csproj.GenerateResource.cache
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\obj\Debug\ScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\bin\Debug\ScrollBar.exe.config
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\bin\Debug\ScrollBar.exe
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\bin\Debug\ScrollBar.pdb
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\obj\Debug\ScrollBar.exe
+C:\Users\Luba\source\repos\janzen01\matura\ScrollBar\obj\Debug\ScrollBar.pdb
